@@ -41,7 +41,8 @@ Make sure you have Python and Pygame installed:
     pip install pygame
 
 Then run the game using:
-python finalProject.py
+
+    python finalProject.py
 
 ## 🧩 Requirements
 
